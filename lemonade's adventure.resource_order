@@ -73,6 +73,7 @@
     {"name":"spr_displaygems","order":28,"path":"sprites/spr_displaygems/spr_displaygems.yy",},
     {"name":"spr_displaythree","order":27,"path":"sprites/spr_displaythree/spr_displaythree.yy",},
     {"name":"spr_ground","order":1,"path":"sprites/spr_ground/spr_ground.yy",},
+    {"name":"spr_hesosad","order":37,"path":"sprites/spr_hesosad/spr_hesosad.yy",},
     {"name":"spr_hessohappy","order":36,"path":"sprites/spr_hessohappy/spr_hessohappy.yy",},
     {"name":"spr_menu1","order":13,"path":"sprites/spr_menu1/spr_menu1.yy",},
     {"name":"spr_orb","order":4,"path":"sprites/spr_orb/spr_orb.yy",},

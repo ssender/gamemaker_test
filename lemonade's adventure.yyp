@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.0.169",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"lemonade's adventure",
   "resources":[
@@ -94,6 +94,7 @@
     {"id":{"name":"spr_displaygems","path":"sprites/spr_displaygems/spr_displaygems.yy",},},
     {"id":{"name":"spr_displaythree","path":"sprites/spr_displaythree/spr_displaythree.yy",},},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
+    {"id":{"name":"spr_hesosad","path":"sprites/spr_hesosad/spr_hesosad.yy",},},
     {"id":{"name":"spr_hessohappy","path":"sprites/spr_hessohappy/spr_hessohappy.yy",},},
     {"id":{"name":"spr_lemon","path":"sprites/spr_lemon/spr_lemon.yy",},},
     {"id":{"name":"spr_menu1","path":"sprites/spr_menu1/spr_menu1.yy",},},
